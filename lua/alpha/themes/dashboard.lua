@@ -35,7 +35,7 @@ local footer = {
     },
 }
 
-local leader = "//"
+local leader = "/"
 
 --- @param sc string
 --- @param txt string
